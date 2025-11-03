@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Hocus Focus"
-run/main_scene="uid://b4j7k81nhr8c6"
+run/main_scene="uid://dgsyk3dir5oq7"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
 
